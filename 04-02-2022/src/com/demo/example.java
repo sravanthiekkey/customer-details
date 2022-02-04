@@ -7,7 +7,8 @@ public class example {
 		String customername="sravs";
 		String customeraddress="hyd";
 		int customerage=25;
-		float customerheight=5.4
+		double customerheight=5.4;
+        double customersalary=30000;	
 	    System.out.println(customerID);
 	    System.out.println(customername);
 	    System.out.println(customeraddress);
